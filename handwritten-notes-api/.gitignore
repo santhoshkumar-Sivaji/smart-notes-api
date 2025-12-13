@@ -1,0 +1,14 @@
+# Build artifacts
+target/
+*.zip
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Log files
+*.log
